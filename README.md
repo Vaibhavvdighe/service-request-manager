@@ -1,5 +1,6 @@
 # Service Request Management System
 
+Live Demo - https://service-request-manager.netlify.app
 A full-stack service management application built with Java, Spring Boot, React, and PostgreSQL for managing service requests, technician assignments, priorities, and request workflows.
 
 ## Overview
